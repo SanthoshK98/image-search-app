@@ -8,6 +8,8 @@ In the project directory, take git clone to local repo:
 
 ### `npm install`
 
+It will install dependencies of the app and then do
+
 ### `npm start`
 
 Runs the app in the development mode.\
